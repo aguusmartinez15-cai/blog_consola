@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "titulo": "Primeros pasos con Python",
+        "contenido": "En este post veremos cómo empezar a programar con Python.",
+        "autor": {
+            "nombre": "Agustín Martínez",
+            "bio": "Estudiante de la diplomatura en IA",
+            "especialidad": "Python y IA",
+            "redes_sociales": [
+                "@agustin_IA",
+                "@programacionconia"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Principiantes"
+        ],
+        "estado": "publicado"
+    },
+    {
+        "id": 2,
+        "titulo": "Qué es Django",
+        "contenido": "Django es un framework web creado con Python.",
+        "autor": {
+            "nombre": "Agustín Martínez",
+            "bio": "Estudiante de la diplomatura en IA",
+            "especialidad": "Python y IA",
+            "redes_sociales": [
+                "@agustin_IA",
+                "@programacionconia"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Django",
+            "Web"
+        ],
+        "estado": "borrador"
+    },
+    {
+        "id": 3,
+        "titulo": "Organizando datos con listas",
+        "contenido": "Las listas permiten guardar varios elementos en una sola variable.",
+        "autor": {
+            "nombre": "Agustín Martínez",
+            "bio": "Estudiante de la diplomatura en IA",
+            "especialidad": "Python y IA",
+            "redes_sociales": [
+                "@agustin_IA",
+                "@programacionconia"
+            ]
+        },
+        "tags": [
+            "Python",
+            "Listas"
+        ],
+        "estado": "archivado"
+    },
+    {
+        "id": 4,
+        "titulo": "Post con datos mal cargados",
+        "contenido": "Este post tiene el estado y los tags mal cargados a propósito.",
+        "autor": {
+            "nombre": "Agustín Martínez",
+            "bio": "Estudiante de la diplomatura en IA",
+            "especialidad": "Python y IA",
+            "redes_sociales": [
+                "@agustin_IA",
+                "@programacionconia"
+            ]
+        },
+        "tags": "Python",
+        "estado": "pendiente"
+    },
+    {
+        "id": 5,
+        "titulo": "mi primer post con clases",
+        "contenido": "hoy aprendi a crear clases con python",
+        "autor": {
+            "nombre": "Agustín Martínez",
+            "bio": "Estudiante de la diplomatura en IA",
+            "especialidad": "Python y IA",
+            "redes_sociales": [
+                "@agustin_IA",
+                "@programacionconia"
+            ]
+        },
+        "tags": [
+            "python",
+            "poo"
+        ],
+        "estado": "publicado"
+    }
+]
